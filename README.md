@@ -1,1 +1,1 @@
-# studyPY
+# comandos básicos em python
