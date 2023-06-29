@@ -1,1 +1,1 @@
-# comandos básicos em python
+# basics commands in python
